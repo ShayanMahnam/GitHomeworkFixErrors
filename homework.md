@@ -28,7 +28,7 @@ HyperText Markup Language
 
 What is CSS useful for?
 
-CSS gives a website its look and layout.
+CSS gives a website its look and layout. (comment: maybe need to improve your answer)
 
 ## Question 6
 
@@ -88,7 +88,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code. (comments: maby need to improve your answer)
 
 ## Question 15
 
